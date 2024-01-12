@@ -18,3 +18,9 @@ SECOND PUSH
 git add .
 git commit -m "label"
 git push
+
+
+git branch branch name 
+git status
+git checkout branch name
+
